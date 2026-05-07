@@ -1,0 +1,16 @@
+Anova: Single Factor,,,,,,,,,
+,,,,,,,,,Ho: sample means are same 
+SUMMARY,,,,,,,,,Ha: samples means are different 
+Groups,Count,Sum,Average,Variance,,,,,
+Strength 1,10,112.0252003,11.20252003,3.978935695,,,,,
+Strength 2,10,89.37722394,8.937722394,8.881371503,,,,,
+Strength 3,10,106.8254643,10.68254643,1.215366902,,,,,
+Strength 4,10,88.3795243,8.83795243,3.531656771,,,,,
+,,,,,,,,,
+,,,,,,,,,
+ANOVA,,,,,,,,,
+Source of Variation,SS,df,MS,F,P-value,F crit,,,
+Between Groups,43.61938201,3,14.539794,3.303122798,0.031054179,2.866265551,,,
+Within Groups,158.4659778,36,4.401832718,,,,,,
+,,,,,,,,,
+Total,202.0853598,39,,,,,,,
